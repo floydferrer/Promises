@@ -1,0 +1,24 @@
+body {
+    background-color: green;
+}
+
+#card-1 {
+    position: absolute;
+}
+
+#card-2 {
+    position: absolute;
+    transform: rotate(15deg);
+}
+
+#card-3 {
+    position: absolute;
+}
+
+#card-4 {
+    position: absolute;
+}
+
+#card-5 {
+    position: relative;
+}
